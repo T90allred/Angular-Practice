@@ -1,2 +1,2 @@
 # Angular-Practice
-Collection of Angular practice and Apps
+Collection of Angular apps and practice 
